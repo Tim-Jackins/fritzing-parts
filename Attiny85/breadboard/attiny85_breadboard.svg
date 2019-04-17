@@ -2,7 +2,7 @@
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2"  height="0.6in" x="0in" width="0.4in" viewBox="0 0 400 600" y="0in">
     <desc>
-        <referenceFile>SO08_breadboard.svg</referenceFile>
+        <referenceFile>attiny_breadboard.svg</referenceFile>
     </desc>
     <g  id="breadboard" stroke-width="0">
         <g  id="icon" stroke-width="0">
